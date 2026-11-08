@@ -1,3 +1,5 @@
+# すべてのクローラーを許可（Google・Bing・ChatGPT 検索 OAI-SearchBot・Perplexity なども含む）
+# 2026-11-08 AI 検索に拾われるため、あえて拒否していない
 User-agent: *
 Allow: /
 
